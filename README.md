@@ -5,7 +5,7 @@ A clean and professional portfolio template built with React, Vite, and Material
 
 ## Live Demo
 
-[https://be-akverse.github.io/PortFolio/](https://beakportfolio.netlify.app/)
+[https://beakportfolio.netlify.app/](https://beakportfolio.netlify.app/)
 
 ## Features
 
